@@ -8,7 +8,7 @@ Here is Tutorail for Beginners
 --------------------------------------------------------
     1. Opening Stg script "!stg_start;"
     
-    2. Commenting you code is simples part just type like this "/* -----   Comment ----- */" opening /* and closing */
+    2. Commenting you code is simplest part just type like this "/* -----   Comment ----- */" opening /* and closing */
     
     3. Closing Stg script "!stg_end;"
     
