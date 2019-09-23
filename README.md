@@ -4,7 +4,7 @@ Here is Tutorail for Beginners
 --------------------------------------------------------
 1) First you have to create file with extension ".stg"
 --------------------------------------------------------
-2) Strting scripting in file
+2) Starting scripting in file
 --------------------------------------------------------
     1. Opening Stg script "!stg_start;"
     
