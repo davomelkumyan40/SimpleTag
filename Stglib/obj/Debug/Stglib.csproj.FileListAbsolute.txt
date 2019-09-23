@@ -1,0 +1,6 @@
+C:\Users\davom\source\repos\SimpleTag\Stglib\obj\Debug\Stglib.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\SimpleTag\Stglib\obj\Debug\Stglib.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\SimpleTag\Stglib\bin\Debug\Stglib.dll
+C:\Users\davom\source\repos\SimpleTag\Stglib\bin\Debug\Stglib.pdb
+C:\Users\davom\source\repos\SimpleTag\Stglib\obj\Debug\Stglib.dll
+C:\Users\davom\source\repos\SimpleTag\Stglib\obj\Debug\Stglib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29111.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stglib", "Stglib\Stglib.csproj", "{FB320853-EF0C-490D-A968-1717330F683F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{579313D5-D2B8-4A11-AFB0-8352352E1A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB320853-EF0C-490D-A968-1717330F683F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB320853-EF0C-490D-A968-1717330F683F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB320853-EF0C-490D-A968-1717330F683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB320853-EF0C-490D-A968-1717330F683F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579313D5-D2B8-4A11-AFB0-8352352E1A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579313D5-D2B8-4A11-AFB0-8352352E1A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579313D5-D2B8-4A11-AFB0-8352352E1A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579313D5-D2B8-4A11-AFB0-8352352E1A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29231D8F-CF1F-4DC7-B797-851145B58534}
+	EndGlobalSection
+EndGlobal

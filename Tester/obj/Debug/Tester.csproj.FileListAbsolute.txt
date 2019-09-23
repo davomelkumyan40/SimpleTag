@@ -1,0 +1,10 @@
+C:\Users\davom\source\repos\SimpleTag\Tester\bin\Debug\Tester.exe.config
+C:\Users\davom\source\repos\SimpleTag\Tester\bin\Debug\Tester.exe
+C:\Users\davom\source\repos\SimpleTag\Tester\bin\Debug\Tester.pdb
+C:\Users\davom\source\repos\SimpleTag\Tester\bin\Debug\Stglib.dll
+C:\Users\davom\source\repos\SimpleTag\Tester\bin\Debug\Stglib.pdb
+C:\Users\davom\source\repos\SimpleTag\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\davom\source\repos\SimpleTag\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\davom\source\repos\SimpleTag\Tester\obj\Debug\Tester.csproj.CopyComplete
+C:\Users\davom\source\repos\SimpleTag\Tester\obj\Debug\Tester.exe
+C:\Users\davom\source\repos\SimpleTag\Tester\obj\Debug\Tester.pdb
