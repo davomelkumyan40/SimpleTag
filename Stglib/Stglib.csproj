@@ -56,8 +56,5 @@
     <Compile Include="Stg\StgDeserializer.cs" />
     <Compile Include="Stg\StgSerializer.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

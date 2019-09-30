@@ -58,29 +58,7 @@ namespace Stglib.Stg
             }
         }
 
-        public override T Cast<T>()
-        {
-            Type mainType = typeof(T);
-            if (Fields.Count != 1 && mainType.BaseType == typeof(ValueType))
-                throw new InvalidCastException();
-            if (mainType.BaseType == typeof(Array))
-                return (T)CreateInstance(mainType, Fields.Values.FirstOrDefault().Value);
-            else if (mainType.BaseType == typeof(ValueType))
-                return (T)CreateInstance(mainType, Fields.Values.FirstOrDefault().Value);
-            else if (mainType == typeof(string))
-                return (T)CreateInstance(typeof(string), Fields.Values.FirstOrDefault().Value);
-            else // here is coming only if class is not from mscorelib
-            {
-                if (this.Name == mainType.Name)
-                {
-                    T instance = Activator.CreateInstance<T>();
-                    OnCast(instance);
-                    return instance;
-                }
-                else
-                    throw new InvalidCastException($"Unable cast to {mainType.Name}");
-            }
-        }
+        public override T Cast<T>() => (T)Cast(typeof(T));
 
         private void OnCast(object instance)
         {
